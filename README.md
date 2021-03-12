@@ -1,3 +1,4 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devillD/t-index/tree/master)
 # Telegram Index
 
 > Python Web App which indexes a telegram channel(or a chat) and serves its files for download.
